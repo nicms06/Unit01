@@ -26,7 +26,7 @@ public class Exercise12 {
 		total = (kgPears*1.95) + (kgApples*2.35);
 		
 		//We show the total
-		System.out.print("The total is ");
+		System.out.print("The total is " + total + "€");
 	}
 
 }
