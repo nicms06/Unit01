@@ -27,6 +27,9 @@ public class Exercise12 {
 		
 		//We show the total
 		System.out.print("The total is " + total + "€");
+		
+		// Close the scanner
+        sc.close();
 	}
 
 }
