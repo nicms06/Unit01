@@ -1,6 +1,6 @@
 //Escribir una aplicación que pida el año actual y el año de nacimiento del usuario. Debe calcular su edad.
 
-package unit1;
+package unit01;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 //Diseña un programa que pida un número al usuario y a continuación lo muestre.
 
-package unit1;
+package unit01;
 
 import java.util.Scanner;
 

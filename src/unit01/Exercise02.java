@@ -1,6 +1,6 @@
 //Pedir al usuario su edad y mostrar la edad que tendrá el próximo año.
 
-package unit1;
+package unit01;
 
 import java.util.Scanner;
 
