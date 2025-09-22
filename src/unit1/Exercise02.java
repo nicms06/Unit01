@@ -10,7 +10,7 @@ public class Exercise02 {
 		//Create a new scanner
 		Scanner sc = new Scanner(System.in);
 				
-		//We declare the variable number
+		//We declare the variable age
 		int age;
 				
 		//We ask the user to enter his/her age
