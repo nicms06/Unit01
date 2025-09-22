@@ -13,6 +13,8 @@ public class Exercise09 {
 		
 		//Declare the variable age
 		int age;
+		
+		//Declare boolean
 		boolean isOfLegalAge;
 		
 		//We ask for the age
