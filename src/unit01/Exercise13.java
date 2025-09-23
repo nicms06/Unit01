@@ -12,7 +12,6 @@ public class Exercise13 {
 
 	public static void main(String[] args) {
 		
-
 		//Create a new scanner
 		Scanner sc = new Scanner(System.in);
 		
