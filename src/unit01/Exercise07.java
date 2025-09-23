@@ -1,4 +1,5 @@
-//Escribir un programa que le pida al usuario su nombre, dirección y teléfono. Guarda cada dato en variables distintas. A continuación, muestra los datos de la siguiente forma:
+/*Escribir un programa que le pida al usuario su nombre, dirección y teléfono. 
+ * Guarda cada dato en variables distintas. A continuación, muestra los datos de la siguiente forma:*/
 
 package unit01;
 

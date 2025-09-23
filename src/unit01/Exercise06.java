@@ -1,5 +1,7 @@
-//Escribir un programa que le pida dos números al usuario. A continuación, debe mostrar la suma, la resta, la multiplicación y la división de ambos números. Debe mostrarse el resultado de cada operación en una línea distinta.
-
+/*Escribir un programa que le pida dos números al usuario. 
+ * A continuación, debe mostrar la suma, la resta, la multiplicación y la división de ambos números. 
+ * Debe mostrarse el resultado de cada operación en una línea distinta.
+*/
 package unit01;
 
 import java.util.Scanner;

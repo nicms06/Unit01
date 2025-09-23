@@ -1,4 +1,6 @@
-//Escribe un programa que pida al usuario su nombre y su edad y muestre por pantalla un mensaje como el siguiente: “Hola Juanito, tienes 21 años, ¡qué mayor eres!”. 
+/*Escribe un programa que pida al usuario su nombre y su edad y muestre por pantalla un mensaje como el siguiente:
+ * “Hola Juanito, tienes 21 años, ¡qué mayor eres!”. 
+*/
 
 package unit01;
 
