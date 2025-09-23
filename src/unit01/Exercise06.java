@@ -11,9 +11,23 @@ public class Exercise06 {
 		//Create a new scanner
 		Scanner sc = new Scanner(System.in);
 				
-		//We declare the variables n1 and n2
-		double n1, n2;
-		double sum, subtraction, multiplication, division;
+		//We declare the variable n1
+		double n1;
+		
+		//We declare the variable
+		double n2;
+		
+		//We declare the variable sum
+		double sum;
+		
+		//We declare the variable subtraction
+		double subtraction;
+		
+		//We declare the variable multiplication
+		double multiplication;
+		
+		//We declare the variable division
+		double division;
 				
 		//We ask for n1 
 		System.out.print("Enter the value 1: ");

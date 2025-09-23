@@ -11,9 +11,13 @@ public class Exercise05 {
 		//Create a new scanner
 		Scanner sc = new Scanner(System.in);
 		
-		//We declare the variables radius, length and area
+		//We declare the variable radius
 		double radius;
+		
+		//We declare the variable length
 		double length;
+		
+		//We declare the variable area
 		double area;
 		
 		//We ask for radius

@@ -11,8 +11,14 @@ public class Exercise12 {
 		//Create a new scanner
 		Scanner sc = new Scanner(System.in);
 		
-		//Declare the variables kgPears and kgApples, total 
-		double kgPears, kgApples, total;
+		//Declare the variable kgPears
+		double kgPears;
+		
+		//Declare the variable kgApples
+		double kgApples;
+		
+		//Declare the variable total
+		double total;
 		
 		//We ask for kgPears
 		System.out.print("How many kg of pears have been sold?: ");

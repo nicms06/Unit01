@@ -11,8 +11,10 @@ public class Exercise08 {
 		//Create a new scanner
 		Scanner sc = new Scanner(System.in);
 		
-		//Declare the variables name and age
+		//Declare the variable name
 		String name;
+		
+		//Declare the variable age
 		int age;		
 		
 		//We ask for name

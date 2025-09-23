@@ -11,9 +11,11 @@ public class Exercise03 {
 		//Create a new scanner
 		Scanner sc = new Scanner(System.in);
 		
-		//We declare the variable year1 and year2
+		//We declare the variable year1 
 		//year1 = year of birth and year2 = current year 
 		int year1;
+		
+		//We declare the variable year2
 		int year2;
 		
 		//We ask the user to enter his/her year of birth

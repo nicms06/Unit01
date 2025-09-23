@@ -11,8 +11,10 @@ public class Exercise04 {
 		//Create a new scanner
 		Scanner sc = new Scanner(System.in);
 		
-		//We declare the variable mark1 and mark2
+		//We declare the variable mark1 
 		double mark1;
+		
+		//We declare the variable mark2
 		double mark2;
 		
 		//We ask for mark1 and mark2

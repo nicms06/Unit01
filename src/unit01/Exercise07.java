@@ -11,8 +11,13 @@ public class Exercise07 {
 		//Create a new scanner
 		Scanner sc = new Scanner(System.in);
 		
-		//We declare the variables name, address and phone
-		String name, address;
+		//We declare the variable name
+		String name; 
+		
+		//We declare the variable address
+		String address;
+		
+		//We declare the variable phone
 		int phone;
 		
 		//We ask for name

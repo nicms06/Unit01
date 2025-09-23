@@ -11,8 +11,11 @@ public class Exercise11 {
 		//Create a new scanner
 		Scanner sc = new Scanner(System.in);
 		
-		//Declare the variables pesetas and euros
-		double pesetas, euros;
+		//Declare the variable pesetas
+		double pesetas;
+		
+		//Declare the variable euros
+		double euros;
 		
 		//We ask for pesetas
 		System.out.print("How many pesetas would you like to convert to euros?: ");
