@@ -25,14 +25,20 @@ public class Exercise09 {
 		int problem;
 		
 		//We ask the user for a value. 
-		System.out.println("Please, input the number of a problem (the problems strart in the number 100): ");
+		System.out.println("Please, input the number of a problem (the number must be bigger than 99): ");
 		problem = sc.nextInt();
 		
-		//I create a loop to make sure that the user don't input a number under 100
-		while(volume < 100) {
-			
+		//Create a loop to make sure that the user don't input a number under 100
+		while(problem < 100) {
+			System.out.println("ERROR. Please try again (the number must be bigger than 99): ");
+			problem = sc.nextInt();
 		}
 		
+		//Calculate the volume
+		volume = ((problem - 100)/100)+ 1;
+		
+		//We show the volume
+		System.out.print("The problem " + problem + " is in the volume " + volume);
 		
 		//Close the Scanner
 		sc.close();
