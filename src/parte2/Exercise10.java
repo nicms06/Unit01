@@ -33,7 +33,7 @@ public class Exercise10 {
 		
 		//Close Scanner
 		sc.close();
-
+		
 	}
 
 }
